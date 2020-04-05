@@ -1,6 +1,6 @@
 module.exports = {
-    title: 'VuePress Blog Example',
-    description: 'This is a blog example built by VuePress',
+    title: '鱼知鱼博客笔记',
+    description: '杂七杂八的博客笔记',
     theme: '@vuepress/theme-blog', // OR shortcut: @vuepress/blog
     base: '/vueblog/',
     themeConfig: {
@@ -14,11 +14,11 @@ module.exports = {
          * Ref: https://vuepress-theme-blog.ulivz.com/#nav
          */
         nav: [{
-                text: 'Blog',
+                text: '博客',
                 link: '/',
             },
             {
-                text: 'Tags',
+                text: '标签',
                 link: '/tag/',
             },
         ],
@@ -27,23 +27,13 @@ module.exports = {
          */
         footer: {
             contact: [{
-                    type: 'github',
-                    link: 'https://github.com/ulivz',
-                },
-                {
-                    type: 'twitter',
-                    link: 'https://twitter.com/_ulivz',
-                },
-            ],
+                type: 'github',
+                link: 'https://github.com/ulivz',
+            }, ],
             copyright: [{
-                    text: 'Privacy Policy',
-                    link: 'https://policies.google.com/privacy?hl=en-US',
-                },
-                {
-                    text: 'MIT Licensed | Copyright © 2018-present Vue.js',
-                    link: '',
-                },
-            ],
+                text: 'MIT Licensed | Copyright © 2018-present Vue.js',
+                link: '',
+            }, ],
         },
     },
 }
