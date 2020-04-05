@@ -28,7 +28,7 @@ module.exports = {
         footer: {
             contact: [{
                 type: 'github',
-                link: 'https://github.com/ulivz',
+                link: 'https://github.com/dev2019zheng/vueblog',
             }, ],
             copyright: [{
                 text: 'MIT Licensed | Copyright © 2018-present Vue.js',

@@ -14,6 +14,8 @@ lang: zh-CN
 > **吐槽:**
 > 最近刚装的manjaro，结果kubuntu上的`deepin-wine-ubuntu`一套用不了了，上网上百度，都是一些抄来抄去的答案，基本都是 `deepin-wechat`的错误包名， 以及`electronic-wechat`，虽然能用，但不是我要的啊，最后不死心试了一下kubuntu上的安装包名：**`deepin-wine-wechat`**， 结果神奇的能用了！
 
+**本文为原创博文,禁止转载,如需转载请联系作者:[鱼知鱼](mailto:18205157336@163.com)**
+
 ## 重点写在前面，安装命令
 
 ```bash

@@ -14,6 +14,8 @@ lang: zh-CN
 >
 > 参考地址: [https://forum.ubuntu.org.cn/viewtopic.php?f=73&p=3217021&sid=6194a64cefc1f4c5ac43dcd8729ca3c8](https://forum.ubuntu.org.cn/viewtopic.php?f=73&p=3217021&sid=6194a64cefc1f4c5ac43dcd8729ca3c8)
 
+**本文为原创博文,禁止转载,如需转载请联系作者:[鱼知鱼](mailto:18205157336@163.com)**
+
 kubuntu 安装`deepin.com.wechat_2.6.8.65deepin0_i386.deb`  ([https://github.com/wszqkzqk/deepin-wine-ubuntu](https://github.com/wszqkzqk/deepin-wine-ubuntu))时遇到报错:
 
 ```bash
